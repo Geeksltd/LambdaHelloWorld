@@ -1,0 +1,16 @@
+.vs/
+Live/obj/
+UAT/obj/
+UAT/bin/Debug/netcoreapp2.1/@Infrastructure.pdb
+UAT/bin/Debug/netcoreapp2.1/@Infrastructure.dll
+UAT/bin/
+Live/bin/
+obj/
+LiveLambda/bin/
+Olive.Infrastructure.Aws.Lambda/bin/
+Olive.Infrastructure.Tests/bin/
+Olive.Infrastructure/bin/
+Olive.Infrastructure.Aws.Core/bin/
+Test/bin/
+HelloWorld/bin/
+Geeks.Live/bin/
